@@ -14,3 +14,5 @@ Sub ConvertDecimalsToInts()
     Next cell
 End Sub
 ```
+
+{% include base_content.md %}

@@ -1,5 +1,6 @@
 # DB-Training
-
+1. Drop all tables in a PostgreSQL schema
+   
 # Excel-Training
 ## VBA 
 1. VBA Script to Write the Same Value for a Range of Cells in a Column <br/> 

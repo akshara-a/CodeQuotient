@@ -14,7 +14,7 @@ Sub FillValue()
     valueToCopyC = Range("C6").Value
     Range("C7:C1001").Value = valueToCopyC
 End Sub
-
+```
 
 # Steps - 
 Press Alt + F11 to open the VBA editor.
